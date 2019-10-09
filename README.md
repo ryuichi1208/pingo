@@ -1,0 +1,2 @@
+# pingo
+This is ping.
